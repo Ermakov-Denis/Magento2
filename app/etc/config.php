@@ -257,6 +257,8 @@ return [
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
+        'WeltPixel_Backend' => 1,
+        'WeltPixel_Quickview' => 1,
         'Yotpo_Yotpo' => 1
     ]
 ];
